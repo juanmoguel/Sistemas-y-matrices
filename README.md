@@ -1,2 +1,4 @@
-# Sistemas-y-matrices
+# Sistemas y matrices
 Programas que escalonan y escalonan reducidamente matrices.
+
+Álgebra Lineal
